@@ -1,0 +1,15 @@
+.container {
+  margin: 20px;
+}
+
+mat-toolbar {
+  background-color: #1976d2;
+  color: white;
+}
+
+mat-footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
